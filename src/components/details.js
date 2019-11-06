@@ -5,7 +5,7 @@ import getClick from '../actions/jsonAction'
 
 const Details = ({musicFiles, info,getBtnClick}) => {
 
-  // console.log(info);
+
   let status = [];
 
   let combinedData,
